@@ -1,5 +1,5 @@
 👋 Hi, I’m McKenna Lawson
-I am currently studying at The University of Kansas Programming Bootcamp and am enjoying every minute of the hard work! I will be finished in March and hope to continue learning while looking for a job in the programming field.
+I am a graduate of The University of Kansas Programming Bootcamp and  enjoy every minute of the hard work! I finished in March and am continuing to learn while looking for a job in the programming field.
 Contact me at McKenna.Lawson01@gmail.com
 
 <!---
